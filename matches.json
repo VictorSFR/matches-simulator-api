@@ -8,12 +8,12 @@
       "mandante":{
           "nome":"Brasil",
           "forca":5,
-          "imagem":"TODO"
+          "imagem":"https://static.todamateria.com.br/upload/ba/nd/bandeiradobrasil-2-cke.jpg"
       },
       "visitante":{
           "nome":"Argentina",
           "forca":5,
-          "imagem":"TODO"
+          "imagem":"https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/bandeira-da-argentina-oficial.jpg"
       }
     }
 ]
